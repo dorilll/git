@@ -1,0 +1,38 @@
+[
+  {
+    "key" : "PREFE",
+    "name" : "guaratingueta",
+    "latitude" : -22.8181156,
+    "longitude" : -45.2034112
+  },
+  {
+    "key" : "VALE",
+    "name" : "valeinformatica",
+    "latitude" : -22.8161,
+    "longitude" : -45.1956
+  },
+  {
+    "key" : "CALSULGUARA",
+    "name" : "calsul de guaratingueta",
+    "latitude" : -22.8152,
+    "longitude" : -45.1924
+  },
+  {
+    "key" : "CALSULPARIS",
+    "name" : "calsul de aparecida",
+    "latitude" : -22.8442,
+    "longitude" : -45.2307
+  },
+  {
+    "key" : "CALSULCACHO",
+    "name" : "calsul de cachoeira",
+    "latitude" : -22.6653,
+    "longitude" : -45.0108
+  },
+  {
+    "key" : "CALSULCRUZ",
+    "name" : "calsul de cruzeiro",
+    "latitude" : -22.5621,
+    "longitude" : -44.9424
+  }
+]
